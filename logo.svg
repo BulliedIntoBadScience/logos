@@ -33,8 +33,8 @@
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1916"
-     inkscape:window-height="1180"
+     inkscape:window-width="1596"
+     inkscape:window-height="880"
      inkscape:window-x="0"
      inkscape:window-y="18"
      inkscape:window-maximized="0" />
@@ -46,7 +46,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -54,66 +54,69 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:4;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0;stroke-dasharray:none"
-       id="rect3851"
-       width="350"
-       height="100"
-       x="159"
-       y="326.36218"
-       ry="6.9106393"
-       inkscape:export-filename="/home/lg390/Pictures/Stickers/BulliedIntoBadScience/g3842.png"
-       inkscape:export-xdpi="600"
-       inkscape:export-ydpi="600" />
     <g
-       id="g3842"
-       transform="matrix(0.83705215,0,0,0.83705215,89.162236,163.02926)"
-       style="stroke:none"
-       inkscape:export-xdpi="600"
-       inkscape:export-ydpi="600">
-      <text
-         sodipodi:linespacing="125%"
-         id="text2985"
-         y="234.28445"
-         x="92.224068"
-         style="font-size:32.73116302px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
-         xml:space="preserve"><tspan
-           style="font-size:39.22970963px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#c4d4af;fill-opacity:1;stroke:none;font-family:Cabin;-inkscape-font-specification:Cabin Bold"
+       id="g3002">
+      <rect
+         inkscape:export-ydpi="600"
+         inkscape:export-xdpi="600"
+         inkscape:export-filename="/home/lg390/Pictures/Stickers/BulliedIntoBadScience/g3842.png"
+         ry="6.3926001"
+         y="330.98178"
+         x="164.87651"
+         height="92.503731"
+         width="333.14661"
+         id="rect3851"
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:3.75338626;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0;stroke-dasharray:none" />
+      <g
+         inkscape:export-ydpi="600"
+         inkscape:export-xdpi="600"
+         style="stroke:none"
+         transform="matrix(0.80485784,0,0,0.80485784,96.028885,172.10583)"
+         id="g3842">
+        <text
+           xml:space="preserve"
+           style="font-size:32.73116302px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+           x="92.224068"
            y="234.28445"
-           x="92.224068"
-           id="tspan2987"
-           sodipodi:role="line">I won't be </tspan><tspan
-           id="tspan3795"
-           style="font-size:32.73116302px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#c4d4af;fill-opacity:1;stroke:none;font-family:Cabin;-inkscape-font-specification:Cabin Bold"
-           y="283.32159"
-           x="92.224068"
-           sodipodi:role="line" /></text>
-      <text
-         sodipodi:linespacing="125%"
-         id="text3759"
-         y="300.36163"
-         x="94.164627"
-         style="font-size:18.00214005px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:2.90299845px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
-         xml:space="preserve"><tspan
-           dx="0"
-           style="font-size:18.00214005px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:2.90299845px;stroke:none;font-family:Cabin;-inkscape-font-specification:Cabin"
-           y="300.36163"
+           id="text2985"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan2987"
+             x="92.224068"
+             y="234.28445"
+             style="font-size:39.22970963px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#c4d4af;fill-opacity:1;stroke:none;font-family:Cabin;-inkscape-font-specification:Cabin Bold">I won't be </tspan><tspan
+             sodipodi:role="line"
+             x="92.224068"
+             y="283.32159"
+             style="font-size:32.73116302px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#c4d4af;fill-opacity:1;stroke:none;font-family:Cabin;-inkscape-font-specification:Cabin Bold"
+             id="tspan3795" /></text>
+        <text
+           xml:space="preserve"
+           style="font-size:18.00214005px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:2.90299845px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
            x="94.164627"
-           id="tspan3761"
-           sodipodi:role="line">http://www.BulliedIntoBadScience.org</tspan></text>
-      <text
-         sodipodi:linespacing="125%"
-         id="text3799"
-         y="275.20273"
-         x="93.950188"
-         style="font-size:39.27739716px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
-         xml:space="preserve"><tspan
-           style="font-size:39.22970963px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;word-spacing:0px;fill:#6c8672;fill-opacity:1;stroke:none;font-family:Cabin;-inkscape-font-specification:Cabin"
-           y="275.20273"
+           y="300.36163"
+           id="text3759"
+           sodipodi:linespacing="125%"><tspan
+             sodipodi:role="line"
+             id="tspan3761"
+             x="94.164627"
+             y="300.36163"
+             style="font-size:18.00214005px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;letter-spacing:2.90299845px;stroke:none;font-family:Cabin;-inkscape-font-specification:Cabin"
+             dx="0">http://www.BulliedIntoBadScience.org</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-size:39.27739716px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
            x="93.950188"
-           id="tspan3801"
-           sodipodi:role="line"
-           dx="0">#BulliedIntoBadScience</tspan></text>
+           y="275.20273"
+           id="text3799"
+           sodipodi:linespacing="125%"><tspan
+             dx="0"
+             sodipodi:role="line"
+             id="tspan3801"
+             x="93.950188"
+             y="275.20273"
+             style="font-size:39.22970963px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;word-spacing:0px;fill:#6c8672;fill-opacity:1;stroke:none;font-family:Cabin;-inkscape-font-specification:Cabin">#BulliedIntoBadScience</tspan></text>
+      </g>
     </g>
   </g>
 </svg>
