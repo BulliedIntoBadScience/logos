@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="logo3.svg"
+   inkscape:export-filename="/home/lg390/Documents/BulliedIntoBadScience/logos/logo3.png"
+   inkscape:export-xdpi="199.63637"
+   inkscape:export-ydpi="199.63637">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="7.5538462"
+     inkscape:cx="399.62098"
+     inkscape:cy="635"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1596"
+     inkscape:window-height="880"
+     inkscape:window-x="0"
+     inkscape:window-y="1218"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#c4d4af;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:3.91248059;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:0;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect2987"
+       width="106.08752"
+       height="106.08752"
+       x="332.38394"
+       y="356.685"
+       ry="6.9984021" />
+    <text
+       xml:space="preserve"
+       style="font-size:31.64096451px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:123.00000191%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       x="335.07126"
+       y="385.9588"
+       id="text3799"
+       sodipodi:linespacing="123%"
+       transform="scale(1.0008934,0.99910739)"><tspan
+         dx="0"
+         sodipodi:role="line"
+         id="tspan3801"
+         x="335.07126"
+         y="385.9588"
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:123.00000191%;word-spacing:0px;fill:#6c8672;fill-opacity:1;stroke:none;font-family:Cabin;-inkscape-font-specification:Cabin">#Bullied</tspan><tspan
+         sodipodi:role="line"
+         x="335.07126"
+         y="420.3988"
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:123.00000191%;letter-spacing:0.14012508px;word-spacing:0px;fill:#6c8672;fill-opacity:1;stroke:none;font-family:Cabin;-inkscape-font-specification:Cabin"
+         id="tspan3010">Into Bad</tspan><tspan
+         sodipodi:role="line"
+         x="335.07126"
+         y="454.83881"
+         style="font-size:28px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:123.00000191%;letter-spacing:1.36121511px;word-spacing:0px;text-anchor:start;fill:#6c8672;fill-opacity:1;stroke:none;font-family:Cabin;-inkscape-font-specification:Cabin"
+         id="tspan3012">Science</tspan></text>
+  </g>
+</svg>
