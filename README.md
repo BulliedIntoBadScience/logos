@@ -8,6 +8,7 @@ Notes from Dusan about how to use the various files:
 - .eps can be opened in other vector based programs (same as .pdf)
 - _ trans.png is 300 dpi (highest resolution) with a transparent background
 
+Laurent created the files starting with "hex_" for us to print hexagonal stickers at StickerMule.
 
 ### Old logos (2017)
 
