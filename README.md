@@ -1,3 +1,16 @@
+**2018**
+
+Logo files beginning with "BIBS" or "Logo_" were designed by Dusan Rozic through a Platinum logo contest at 99designs.
+
+Notes from Dusan about how to use the various files:
+- CMYK: files for printing 
+- RGB: files for digital use
+- Logo_ (ai, eps, pdf, jpg, png)
+- .ai can only be opened in Adobe Illustrator file
+- .eps can be opened in other vector based programs (same as .pdf)
+- _ trans.png is 300 dpi (highest resolution) with a transparent background
+
+**2017**
 
 - logo: used for stickers
 - logo2: used for t-shirts
