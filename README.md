@@ -8,7 +8,6 @@ Notes from Dusan about how to use the various files:
 - .eps can be opened in other vector based programs (same as .pdf)
 - _ trans.png is 300 dpi (highest resolution) with a transparent background
 
-
 All files in this repository are available under a Creative Commons
 Attribution-ShareAlike 4.0 (CC-BY-SA) license.
 
@@ -34,7 +33,6 @@ Under the following terms:
 No additional restrictions - You may not apply legal terms or
 technological measures that legally restrict others from doing
 anything the license permits.
-
 
 ### Old logos (2017)
 
