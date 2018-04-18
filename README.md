@@ -8,10 +8,11 @@ Notes from Dusan about how to use the various files:
 - .eps can be opened in other vector based programs (same as .pdf)
 - _ trans.png is 300 dpi (highest resolution) with a transparent background
 
-All files in this repository are available under a Creative Commons
-Attribution-ShareAlike 4.0 (CC-BY-SA) license.
+All files in this repository are licensed under a <a rel="license"
+href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons
+Attribution-ShareAlike 4.0 International License</a>.
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />
 
 You are free to:
 
